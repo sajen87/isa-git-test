@@ -6,6 +6,7 @@ $(function () {
         { firstName: "Pawel", lastName: "Kielcz" }
         { firstName: "Janek", lastName: "Kielcz" }
         { firstName: "Waldek", lastName: "Kielcz" }
+        { firstName: "Gerwazy", lastName: "Kielcz" }
     ];
 
     patientsList.forEach(function (patient) {
