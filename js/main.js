@@ -4,8 +4,8 @@ $(function () {
         { firstName: "Adam", lastName: "Nowak" },
         { firstName: "Andrzej", lastName: "Kielcz" }
         { firstName: "Pawel", lastName: "Kielcz" }
-        { firstName: "Janek", lastName: "Kielcz" }
-        { firstName: "Waldek", lastName: "Kielcz" }
+        { firstName: "Franek", lastName: "Kielcz" }
+        { firstName: "Marian", lastName: "Kielcz" }
         { firstName: "Gerwazy", lastName: "Kielcz" }
     ];
 
